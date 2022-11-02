@@ -8,7 +8,7 @@
 
 import pygame
 pygame.init()#initializes Pygame
-pygame.display.set_caption("Mouse events")#sets the window title
+pygame.display.set_caption("python paint program")#sets the window title
 screen = pygame.display.set_mode((800, 800))#creates game screen
 xpos = 0
 ypos = 0
